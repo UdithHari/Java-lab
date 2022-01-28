@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Sumarr
+class SumMat
 {
 	public static void main(String args[])
 	{
